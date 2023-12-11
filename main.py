@@ -3,7 +3,7 @@ import subprocess
 
 # qBittorrent web UI details
 conn_info = dict(
-   host='<host ip or host>',
+   host='<qbit host ip or hostname>',
    port='<qbit port>',
    username='<qbit username>',
    password='<qbit password>'
